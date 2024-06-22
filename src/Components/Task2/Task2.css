@@ -1,0 +1,13 @@
+input{
+    margin-right: 10px;
+}
+h2{
+    text-align: center;
+}
+.parent{
+    display: grid;
+    place-items: center;
+}
+h3{
+    align-items: center;
+}
